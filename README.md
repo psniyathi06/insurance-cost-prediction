@@ -15,8 +15,13 @@ This project predicts medical insurance costs based on user attributes like age,
 - Model evaluation (MSE, RMSE, R²)
 
 ## 📈 Results
-- R² Score: ~0.8
+- R² Score: ~0.709
 - Model predicts insurance cost with good accuracy
+## 📊 Visualizations
+
+![Heatmap](heatmap.png)
+![Distribution](distribution.png)
+![Prediction](prediction_plot.png)
 
 ## 🚀 How to Run
 1. Clone this repository
